@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Developer Tools</title>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+</head>
+
+<body style="font-family: Arial; max-width: 800px; margin: 40px auto; line-height: 1.6;">
+
+<h1>Developer Tools</h1>
+
+<p>
+This site provides information about applications developed to assist Etsy sellers with listing management and automation.
+</p>
+
+<h2>Etsy Listing Studio</h2>
+
+<p>
+Etsy Listing Studio is a desktop application that runs locally on the user's computer and helps generate SEO-optimized Etsy listings using AI. The application does not store or transmit Etsy account data externally.
+</p>
+
+<h2>Privacy Policy</h2>
+
+<p>
+All applications operate locally on the user’s computer. No personal data or Etsy account information is collected, stored, or transmitted to external servers.
+</p>
+
+<h2>Contact</h2>
+
+<p>
+For enquiries please contact:<br>
+dave@davepetersdigital.com
+</p>
+
+</body>
+</html>
