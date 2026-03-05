@@ -1,34 +1,50 @@
 <!DOCTYPE html>
 <html>
 <head>
-<title>Developer Tools</title>
+<title>DP Digital Tools</title>
 <meta name="viewport" content="width=device-width, initial-scale=1">
 </head>
 
-<body style="font-family: Arial; max-width: 800px; margin: 40px auto; line-height: 1.6;">
+<body style="font-family: Arial; max-width: 900px; margin: 40px auto; line-height: 1.6">
 
-<h1>Developer Tools</h1>
+<h1>DP Digital Tools</h1>
 
 <p>
-This site provides information about applications developed to assist Etsy sellers with listing management and automation.
+DP Digital Tools develops automation software to assist Etsy sellers with listing creation, SEO optimisation, and workflow management.
 </p>
 
-<h2>Etsy Listing Studio</h2>
+<h2>Applications</h2>
 
 <p>
-Etsy Listing Studio is a desktop application that runs locally on the user's computer and helps generate SEO-optimized Etsy listings using AI. The application does not store or transmit Etsy account data externally.
+<strong>Etsy Listing Studio</strong><br>
+A desktop application that runs locally on the user’s computer and helps generate SEO-optimised Etsy listings using AI.
+</p>
+
+<p>
+The application operates locally and does not store Etsy account credentials or personal data on external servers.
 </p>
 
 <h2>Privacy Policy</h2>
 
 <p>
-All applications operate locally on the user’s computer. No personal data or Etsy account information is collected, stored, or transmitted to external servers.
+DP Digital Tools does not collect, store, or transmit personal user data.
+All applications operate locally on the user’s device. Etsy account data accessed through the Etsy API is used solely for the purpose of assisting the user in managing their listings.
+</p>
+
+<h2>Terms of Service</h2>
+
+<p>
+This software is provided as a productivity tool for Etsy sellers. By using the application, users agree to comply with Etsy's API Terms of Use and Etsy's marketplace policies.
+</p>
+
+<p>
+The software is provided "as is" without warranty of any kind.
 </p>
 
 <h2>Contact</h2>
 
 <p>
-For enquiries please contact:<br>
+For support or enquiries please contact:<br>
 dave@davepetersdigital.com
 </p>
 
